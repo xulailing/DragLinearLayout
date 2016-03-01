@@ -1,0 +1,1 @@
+介绍：可以拖拽排序的LinearLayout。其实拖拽排序已经有很多ListView版本的实现，为什么还需要LinearLayout里面拖拽排序呢？因为LinearLayout的使用比ListView简单，如果你只有几个Item，使用ListView是不是太浪费？ https://github.com/justasm/DragLinearLayout
